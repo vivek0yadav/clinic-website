@@ -1,6 +1,6 @@
 <?php include("includes/header.php"); ?>
 
-<section class="relative bg-white pt-24 pb-20 px-6 overflow-hidden min-h-[90vh] flex items-center">
+<section class="relative bg-white pt-0 pb-20 px-6 overflow-hidden min-h-[90vh] flex items-center">
     <div class="absolute top-[-10%] right-[-5%] w-[500px] h-[500px] bg-sky-50 rounded-full blur-3xl opacity-60 animate-pulse"></div>
     <div class="absolute bottom-0 left-[-5%] w-[400px] h-[400px] bg-emerald-50 rounded-full blur-3xl opacity-50"></div>
     
@@ -12,7 +12,7 @@
                     <span class="inline-block px-4 py-2 mb-6 text-xs font-black tracking-[0.3em] text-emerald-600 uppercase bg-emerald-50 rounded-full">
                         20+ Years of Excellence
                     </span>
-                    <h1 class="text-5xl md:text-7xl font-black text-slate-900 leading-[1.1] mb-6">
+                    <h1 class="text-4xl md:text-7xl font-black text-slate-900 leading-[1.1] mb-6">
                         Advanced Care for <br>
                         <span class="bg-clip-text text-transparent bg-gradient-to-r from-sky-600 to-emerald-500">Modern Women.</span>
                     </h1>
